@@ -1,0 +1,5 @@
+http://www.gallamine.com/2014/02/a-brief-introduction-to-compressed.html
+https://dilawarnotes.wordpress.com/2017/09/06/compressed-sensing-a-python-demo/
+http://aria42.com/blog/2014/12/understanding-lbfgs
+http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/
+
